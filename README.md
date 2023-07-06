@@ -1,5 +1,3 @@
-|![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rk020&include_all_commits=true&count_private=true&show_icons=true) |![Rohit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rk020) |
-| --- | --- |
 <!--
 **rk020/rk020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
